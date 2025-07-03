@@ -81,3 +81,6 @@ Pandas for data manipulation, aggregation
 Matplotlib and Seaborn for visualization and behavior with respect to the target variable. 
 
 NumPy for computationally efficient operations
+
+**Insights**
+Detailed insight has been provided in the colab book please refer that to know more.
