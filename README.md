@@ -82,5 +82,7 @@ Matplotlib and Seaborn for visualization and behavior with respect to the target
 
 NumPy for computationally efficient operations
 
+Ast Library to split row data
+
 **Insights**
 Detailed insight has been provided in the colab book please refer that to know more.
