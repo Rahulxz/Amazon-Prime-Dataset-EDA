@@ -1,4 +1,4 @@
-# Colab
+# EDA
 Data Wrangling, EDA &amp; Data Visualization for Data analysis on colab notebook.
 
 **Amazon Prime Data Set Exploratory Data Analysis**
